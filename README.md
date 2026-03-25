@@ -1,2 +1,2 @@
 # ma-long-tribute
-A tribute page for Ma Long
+A simple tribute webpage for Ma Long. Made with basic HTML and CSS as a learning project.
